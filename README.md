@@ -25,10 +25,10 @@ Memory limit: 1GB
 
 1 ≤ H<sub>i</sub> ≤ 100
 
-Test set 1:
+<b>Test set 1:</b>
 
 3 ≤ N ≤ 5
 
-Test set 2:
+<b>Test set 2:</b>
 
 3 ≤ N ≤ 100
